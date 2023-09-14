@@ -1,0 +1,9 @@
+1)
+
+a) Los repositorios remotos sirven, para guardar nuestro trabajo desde la terminan de la pc donde estemos trabajando y no
+ir a git y guardar manualmente
+
+b) La direncia entre los comandos git commit -m y git push es que el comando git commit -m sirve para confirmar lo que queremos guardar y el git push lo sube al repositorio
+
+c) Una issue, como su nombre lo indica es "Asunto", esto nos serviria cuando estemos trabjando con nuestros compañeros, cada uno se va a tener que encargar de
+un asunto o tarea distinto
